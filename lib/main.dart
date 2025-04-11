@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_log_viewer/src/flutter_log_viewer.dart';
+import 'package:flutter_log_viewer/flutter_log_viewer.dart';
 import 'package:logger/logger.dart';
 
 late Logger log;
